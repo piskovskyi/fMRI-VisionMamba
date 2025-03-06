@@ -1,6 +1,8 @@
 # fMRI-VisionMamba
 
-Simple brain/fMRI encoding model based on VMamba [[1]](#1) ([link to the original repository](https://github.com/MzeroMiko/VMamba)).
+Simple brain/fMRI encoding model based on VMamba [[1]](#1) ([link to the original repository](https://github.com/MzeroMiko/VMamba)). 
+
+This network was implemented for the paper ([Generalizability analysis of deep learning predictions of human brain responses to augmented and semantically novel visual stimuli](https://www.researchgate.net/publication/384676624_Generalizability_analysis_of_deep_learning_predictions_of_human_brain_responses_to_augmented_and_semantically_novel_visual_stimuli)) presented at the Human-Inspired Computer Vision Workshop at the European Conference on Computer Vision 2024.
 
 ## Architecture
 ![Architecture](architecture.png)
